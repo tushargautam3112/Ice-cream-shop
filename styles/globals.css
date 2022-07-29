@@ -4,4 +4,11 @@
 
 body{
   overflow-x: hidden;
+  background-color: #1f171c;
+  color: rgb(231, 231, 231)
+}
+
+input,textarea{
+  background-color: #120d10;
+  height: 3rem;
 }
